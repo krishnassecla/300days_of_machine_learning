@@ -11,3 +11,10 @@
   + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
   + **ChatGPT**
   
+**Day 3 of 300**
++ **Beginning a ML project**: I got started with the chapter-2 of the book which is about a ML project from start to finish. I was introduced to some checklists to be marked when creating a ML system like selecting a performance measure. Nothing special just wrote some code and made chatGPT explain it. I hope to understand it all real soon.
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **ChatGPT**
+  
+![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day1.png)
