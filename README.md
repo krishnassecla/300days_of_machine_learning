@@ -17,4 +17,13 @@
   + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
   + **ChatGPT**
   
-![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day1.png)
+![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day3.png)
+
+**Day 4 of 300**
++ **An Introduction to numpy**: Today, I realized that I need to have some level of familiarity with numpy and pandas to further proceed with the "ML" book. So, I typed some code in numpy, learned some stuffs about ndarray, ndtype, basic operations, dimensions in ndarray, etc. Numpy uses "contiguous memory" that makes its operations faster than python. 
++Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **Python for Data Analysis**
+  + **ChatGPT**
+  
+ ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day4.png)
