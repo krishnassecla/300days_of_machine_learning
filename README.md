@@ -31,11 +31,22 @@
  **Day 5 of 300**
  + **Further numpy**: Today, I learned about array slicing, copying them deeply such that the original does not mutate, slicing to lower dimesnions, about how the axes work in numpy. 
  
- + Resources:
++ Resources:
   + **Python for Data Analysis**
   + **ChatGPT**
   + **https://www.sharpsightlabs.com/blog/numpy-axes-explained/**
   
  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day5.png)
+ 
+ **Day 6 of 300**
+ + **Pseudorandom number generation, universal functions, fancy indexing**: Today, I learned indexing arrays with integer arrays, generating same "random" numbers throughtout the program, and about element-wise array operations i.e vectorization of operations.
+ 
++ Resources:
+  + **Python for Data Analysis**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day6.png)
+  
+
  
  
