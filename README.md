@@ -48,5 +48,14 @@
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day6.png)
   
 
+ **Day 7 of 300**
+ + **Completed chapter 4 from the book**: I got a decent introduction to array-oriented programming in numpy and used some mathematical methods. I learned about np.unique functions and its comparsion to sorted in python plus read and write numpy arrays to files. 
  
++ Resources:
+  + **Python for Data Analysis**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day7.png)
+  
+
  
