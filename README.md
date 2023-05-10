@@ -57,5 +57,12 @@
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day7.png)
   
-
+ **Day 8 of 300**
+ + **Introduction to pandas**: I got started with the fifth chapter to the mentioned book to initiate pandas. At a surface level, I got understanding of pandas series, dataframes, some possible data inputs to DF constructor, changing and labeling columns,etc.
+ 
++ Resources:
+  + **Python for Data Analysis**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day8.png)
  
