@@ -66,3 +66,12 @@
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day8.png)
  
+ **Day 8 of 300**
+ + **Further pandas**: Today, I learnt about reindexing, 
+ dropping entries from an axis, selection and filtering.
++ Resources:
+  + **Python for Data Analysis**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day9.png)
+ 
