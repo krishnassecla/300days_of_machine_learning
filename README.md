@@ -66,7 +66,7 @@
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day8.png)
  
- **Day 8 of 300**
+ **Day 9 of 300**
  + **Further pandas**: Today, I learnt about reindexing, 
  dropping entries from an axis, selection and filtering.
 + Resources:
@@ -74,4 +74,12 @@
   + **ChatGPT**
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day9.png)
+  
+  **Day 10 of 300**
+ + **Further pandas**: I got introduced to data alignment in pandas, filling values when axis label is found for one obj but not another, using numpy ufuncs to work with pandas object, sorting and ranking...
++ Resources:
+  + **Python for Data Analysis**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day10.png)
  
