@@ -82,4 +82,19 @@
   + **ChatGPT**
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day10.png)
+
+  **Day 11 of 300**
+ + **Using some numpy and pandas function**:  Today, I was able to see application of numpy and pandas in Machine Learning code like the random number generator's seed value, numpy permutation shuffling, etc. I learned to create test set and train set from data, read histogram properly with correct scaling and use sklearn to make some work easier to do.
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **Python for Data Analysis**
+  + **ChatGPT**
  
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day11.png)
+ 
+ 
+ 
+ 
+ 
+ 
+
