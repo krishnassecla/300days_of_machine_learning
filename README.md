@@ -92,6 +92,14 @@
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day11.png)
  
+  **Day 12 of 300**
+ + **Using data for insights**: Today, I learned to understand data using a number of plotting functions provided by respecitve libraries. I visualized data using scatter plots, histograms, and correlation coefficient.
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **Python for Data Analysis**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day12.png)
  
  
  
