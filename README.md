@@ -102,6 +102,15 @@
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day12.png)
  
  
+   **Day 13 of 300**
+ + **Preparing Data for ML algorithm**: Today I got some idea about making the data ready to feed it into the ML algorithm. I learned some terms like imputation and used sklearn's Simple Imputer along with the Scikit-Learn major design principles. 
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **Python for Data Analysis**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day13.png)
+ 
  
  
  
