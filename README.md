@@ -111,7 +111,16 @@
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day13.png)
  
+
+   **Day 14 of 300**
+ + **Ordinary Linear Regression**: Today, I learned the concepts for ordinary linear regression.
++ Resources:
+  + **Machine Learning From Scratch**
+  + **ChatGPT**
  
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day14.png)
+ 
+  
  
  
 
