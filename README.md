@@ -113,14 +113,21 @@
  
 
    **Day 14 of 300**
- + **Ordinary Linear Regression**: Today, I learned the concepts for ordinary linear regression.
+ + **Logistic Regression**: I got some idea about logistic regression and tried to implement it in python but I guess I have a flawed understanding.
 + Resources:
   + **Machine Learning From Scratch**
   + **ChatGPT**
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day14.png)
  
-  
+   **Day 15 of 300**
+ + **Ordinary Linear Regression**: Today, I learned the concepts for ordinary linear regression.
++ Resources:
+  + **Machine Learning From Scratch**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day15.png)
+   
  
  
 
