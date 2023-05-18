@@ -111,23 +111,31 @@
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day13.png)
  
-
    **Day 14 of 300**
- + **Logistic Regression**: I got some idea about logistic regression and tried to implement it in python but I guess I have a flawed understanding.
-+ Resources:
-  + **Machine Learning From Scratch**
-  + **ChatGPT**
- 
-  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day14.png)
- 
-   **Day 15 of 300**
  + **Ordinary Linear Regression**: Today, I learned the concepts for ordinary linear regression.
 + Resources:
   + **Machine Learning From Scratch**
   + **ChatGPT**
  
-  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day15.png)
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day14.png)
    
+
+   **Day 15 of 300**
+ + **Logistic Regression**: I got some idea about logistic regression and tried to implement it in python but I guess I have a flawed understanding.
++ Resources:
+  + **Machine Learning From Scratch**
+  + **ChatGPT**
  
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day15.png)
+ 
+ 
+   **Day 16 of 300**
+ + **Ordinary Linear Regression**: Today, I revised my learning from previous days and learned a litle about preprocessing numerical attributes using min-max method and standardization.
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day16.png)
+   
  
 
