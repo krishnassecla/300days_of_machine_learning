@@ -130,12 +130,20 @@
  
  
    **Day 16 of 300**
- + **Ordinary Linear Regression**: Today, I revised my learning from previous days and learned a litle about preprocessing numerical attributes using min-max method and standardization.
+ + **Feature Scaling and Transformation**: Today, I revised my learning from previous days and learned a litle about preprocessing numerical attributes using min-max method and standardization.
 + Resources:
   + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
   + **ChatGPT**
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day16.png)
+ 
+    **Day 17 of 300**
+ + **Further Transformation**: I came to know about new methods for transformation of data to make it more uniform. For heavily tailed features we use methods such as bucketizing and using radial basis function.
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day17.png)
    
  
 
