@@ -145,5 +145,12 @@
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day17.png)
    
+    **Day 18 of 300**
+ + **Custom Transformers**: Today, I got some idea about using custom transformers which are needed when you need to do tasks beyong the capibilities of standard transformer.
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **ChatGPT**
  
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day18.png)
+   
 
