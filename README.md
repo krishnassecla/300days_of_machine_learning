@@ -153,4 +153,12 @@
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day18.png)
    
+  **Day 19 of 300**
+ + **Complete Custom Transformers**: The custom transformer section from the book is now completed. 
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day19.png)
+   
 
