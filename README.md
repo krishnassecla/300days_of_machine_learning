@@ -160,5 +160,13 @@
   + **ChatGPT**
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day19.png)
+
+  **Day 20 of 300**
+ + **Transformation Pipelines**: Transformation pipelines are used to execute data transformation steps in the correct order. We use Pipeline class from sklearn in this example.
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day20.png)
    
 
