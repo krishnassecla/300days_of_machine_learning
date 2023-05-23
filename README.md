@@ -168,5 +168,13 @@
   + **ChatGPT**
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day20.png)
+  
+  **Day 21 of 300**
+ + **Training a model**: Just trained the model to predict california housing prices using simple linear regression, and did cross-validation. Further trained the model using sklearn's random forest regressor to know that it was just as good or "bad" as the linear regression.
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day21.png)
    
 
