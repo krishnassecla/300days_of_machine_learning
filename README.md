@@ -176,5 +176,13 @@
   + **ChatGPT**
  
   ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day21.png)
+
+  **Day 22 of 300**
+ + **Fine Tuning**: Today I tuned my model using grid search.
++ Resources:
+  + **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
+  + **ChatGPT**
+ 
+  ![Image](https://github.com/krishnassecla/300days_of_machine_learning/blob/main/images/day22.png)
    
 
